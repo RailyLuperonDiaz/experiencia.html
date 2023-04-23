@@ -1,0 +1,31 @@
+<html>
+     <head>
+	       <title>Inicio</title>
+		   <link href="estilo.css" rel="stylesheet"/>
+	 </head>
+	 <body>
+	     <center>
+	         
+	         <h2>Literatura Contemporánea</h2>
+			 <br/>
+			 <h3>Nombre: Raily Luperon Diaz</h3>
+			 <h3>Matricula: 120-4642</h3>
+			 
+		 </center>
+		 <br/>
+		 <br/>
+		 
+	<div style="text-align:center">
+
+			 <img src="img/yo.jpeg" width="400" height="400"/>
+			 </P>
+			  <br/>
+		 <br/>
+		 <div id="divBotones">
+		     <a href="p1.html">Siguente</a>
+
+</div>
+  </a> 
+		
+		 </div>
+</html>
